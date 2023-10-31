@@ -48,9 +48,7 @@ export default{
 
 <style scoped>
 
-#carouselExampleRide {
-    padding: 0;
-}
+
 .carousel-item{
     height: 34rem;
     position: relative;
