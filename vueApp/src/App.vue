@@ -1,7 +1,6 @@
 <template>
     <navbar />
     <navbar2 />
-    <carousel />
 
 
 </template>
